@@ -1,0 +1,19 @@
+{
+  "name": "tg6-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Mami",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.11.0"
+  }
+}
